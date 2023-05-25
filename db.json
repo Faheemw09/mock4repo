@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "username": "fahim",
+      "email": "hashmatw555@gmail.com",
+      "password": "1234",
+      "checked": "on",
+      "id": 1
+    },
+    {
+      "username": "f",
+      "email": "f",
+      "password": "f",
+      "checked": "on",
+      "id": 2
+    },
+    {
+      "username": "fahim",
+      "email": "f@12",
+      "password": "123",
+      "checked": "on",
+      "id": 3
+    }
+  ],
+  "Dashboard": [
+    {
+      "name": "faheem",
+      "imageURL": "vv",
+      "specialization": "Pediatrician",
+      "date": "2023-05-08",
+      "experience": "100",
+      "location": "bbb",
+      "slot": "67",
+      "fee": "89",
+      "id": 2
+    }
+  ]
+}
